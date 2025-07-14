@@ -1,0 +1,35 @@
+User Persona: Hungry-Move-6603
+Generated on: 2025-07-14
+---
+Basic Information:
+Name: Rahul
+Age: Late 30s
+Occupation: Business Owner
+Status: Unspecified
+Location: Lucknow, Uttar Pradesh, India
+Archetype: Resident Local
+
+Personality Traits:
+- Observant: Score 4 (Source: Post ID: removed, 'everyone is something in lko', Subreddit: Unspecified, Timestamp: Unspecified)
+- Assertive: Score 3 (Source: Post ID: Unspecified, 'what is the obsession peeps', Subreddit: Unspecified, Timestamp: Unspecified)
+- Critical Thinker: Score 4 (Source: Post ID: Unspecified, 'he was not a common man he was their agent and shield', Subreddit: Unspecified, Timestamp: Unspecified)
+
+Motivations:
+- Maintaining Relationships: Score 3 (Source: Post ID: Unspecified, 'cops keep a civ around to discuss bribes', Subreddit: Unspecified, Timestamp: Unspecified)
+- Safety: Score 3 (Source: Post ID: Unspecified, 'dont you have big muscle brothers or friends or coplawyer friends', Subreddit: Unspecified, Timestamp: Unspecified)
+
+Preferences:
+- Prefers healthy and quick cooking recipes (Source: Post ID: Unspecified, 'a menu easy to cook process healthy and quick', Subreddit: Unspecified, Timestamp: Unspecified)
+
+Behavior Habits:
+- Eats power meals at home to avoid low-quality food (Source: Post ID: Unspecified, 'same problem i started eating power meals at home atleast saves me from crap quality i even purchased a 250 per meal tiffin and it had palm oil', Subreddit: Unspecified, Timestamp: Unspecified)
+
+Frustrations:
+- Frustrated with corruption and bribery in the system (Source: Post ID: Unspecified, 'cops keep a civ around to discuss bribes', Subreddit: Unspecified, Timestamp: Unspecified)
+
+Goals and Needs:
+- Wants to live in a city with less corruption and better law enforcement (Source: Post ID: Unspecified, 'toh hum noida or ghaziabad se pahadio ko bhagana shuru karein fir  bhukmari ajaegi', Subreddit: Unspecified, Timestamp: Unspecified)
+
+Quote:
+"{'text': 'I shifted to Lucknow in Dec 24 for business purposes. I have hardly seen a car which does not have a sticker on it.', 'citation': 'Post ID: removed, Subreddit: Unspecified, Timestamp: Unspecified'}" (Source: N/A)
+---
